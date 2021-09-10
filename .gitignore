@@ -1,0 +1,7 @@
+dist
+node_modules
+transpiled
+/.idea/
+
+# Private configs
+wrangler.toml
