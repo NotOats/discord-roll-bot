@@ -5,6 +5,9 @@ account_id = ""
 route = ""
 workers_dev = true
 
+vars = { PUBLIC_KEY="<discord_bot_public_key>", APPLICATION_ID="<discord_bot_application_id>" }
+
+
 [build]
 command = "npm install && npm run build"
 [build.upload]
