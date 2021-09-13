@@ -122,6 +122,13 @@ const descriptions: string[] = [
     'Maybe this will do something cool.',
     'Did your head explode?',
     'Are you *still* shopping?',
+    'These Australian dice are weird, they roll backwards.',
+    "Just for you I'll use the metal dice!",
+    'Huh, I thought these were weighted.',
+    'Damn it, stop shooting me in the back.',
+    "Don't tell me you lost your hand again.",
+    'And the unrighteous were turned to ash!',
+    "I used Mondian's cursed dice, that's ok right?"
 ];
 
 const footers: string[] = [
